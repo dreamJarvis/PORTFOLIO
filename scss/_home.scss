@@ -4,7 +4,8 @@
     overflow: hidden;
     align-items: center;
     text-align: center;
-    background: linear-gradient( to right, rgba($primary-color, 1), rgba($primary-color, 0.4)), url(/docs/img/backgruond.png) top center;
+    // background: linear-gradient( to right, rgba($primary-color, 1), rgba($primary-color, 0.4)), url(/docs/img/backgruond.png) top center;
+    background: linear-gradient( to right, rgba($primary-color, 1), rgba($primary-color, 0.4)), url(https://dreamjarvis.github.io/portfolio/docs/img/backgruond.png) top center;
     background-size: cover;
     &_name {
         font-size: 5rem;

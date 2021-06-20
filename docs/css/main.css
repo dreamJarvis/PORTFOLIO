@@ -13,8 +13,8 @@
     -ms-flex-align: center;
     align-items: center;
     text-align: center;
-    background: -webkit-gradient(linear, left top, right top, from(#272727), to(rgba(39, 39, 39, 0.4))), url(/docs/img/backgruond.png) top center;
-    background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.4)), url(/docs/img/backgruond.png) top center;
+    background: -webkit-gradient(linear, left top, right top, from(#272727), to(rgba(39, 39, 39, 0.4))), url(https://dreamjarvis.github.io/portfolio/docs/img/backgruond.png) top center;
+    background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.4)), url(https://dreamjarvis.github.io/portfolio/docs/img/backgruond.png) top center;
     background-size: cover;
 }
 
@@ -192,8 +192,8 @@
 .about_bio-image {
     height: 50vh;
     width: 100%;
-    background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url(/docs/img/about_me.jpg) center top;
-    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(/docs/img/about_me.jpg) center top;
+    background: -webkit-gradient(linear, left top, right top, from(#272727), to(rgba(39, 39, 39, 0.4))), url(https://dreamjarvis.github.io/portfolio/docs/img/about_me.jpg) top center;
+    background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.4)), url(https://dreamjarvis.github.io/portfolio/docs/img/about_me.jpg) top center;
     background-size: cover;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -287,8 +287,8 @@
 .projects_bio-image {
     height: 30vh;
     width: 100%;
-    background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url(/docs/img/guy_comp.jpg) center top;
-    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(/docs/img/guy_comp.jpg) center top;
+    background: -webkit-gradient(linear, left top, right top, from(#272727), to(rgba(39, 39, 39, 0.4))), url(https://dreamjarvis.github.io/portfolio/docs/img/guy_comp.jpg) top center;
+    background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.4)), url(https://dreamjarvis.github.io/portfolio/docs/img/guy_comp.jpg) top center;
     background-size: cover;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -413,8 +413,8 @@
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.4))), url(/docs/img/cofefe.jpeg) center center;
-    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.4)), url(/docs/img/cofefe.jpeg) center center;
+    background: -webkit-gradient(linear, left top, right top, from(#272727), to(rgba(39, 39, 39, 0.4))), url(https://dreamjarvis.github.io/portfolio/docs/img/cofefe.jpeg) top center;
+    background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.4)), url(https://dreamjarvis.github.io/portfolio/docs/img/cofefe.jpeg) top center;
     background-size: cover;
 }
 
